@@ -1,0 +1,24 @@
+{
+  "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#eceef0",
+        "terminal.ansiBlack": "#546d79",
+        "terminal.ansiBrightBlack": "#b0bec4",
+        "terminal.ansiBlue": "#40c4fe",
+        "terminal.ansiBrightBlue": "#80d7fe",
+        "terminal.ansiCyan": "#64fcda",
+        "terminal.ansiBrightCyan": "#64fcda",
+        "terminal.ansiGreen": "#69f0ad",
+        "terminal.ansiBrightGreen": "#69f0ad",
+        "terminal.ansiMagenta": "#ff3f80",
+        "terminal.ansiBrightMagenta": "#ff80ab",
+        "terminal.ansiRed": "#ff5151",
+        "terminal.ansiBrightRed": "#ff8980",
+        "terminal.ansiWhite": "#fefefe",
+        "terminal.ansiBrightWhite": "#fefefe",
+        "terminal.ansiYellow": "#ffd73f",
+        "terminal.ansiBrightYellow": "#ffe47e"
+    }
+}
