@@ -128,4 +128,4 @@ k9s:
       bgColor: *backgroundOpaque
       indicator:
         fgColor: *foreground
-        bgColor: *darkBlue  
+        bgColor: *darkBlue
